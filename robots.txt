@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://auto-menang.pages.dev/sitemap.xml
+Sitemap: https://tapajugeb755-wq.github.io/sitemap.xml
